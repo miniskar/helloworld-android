@@ -3,11 +3,6 @@ How to build and run hello world application for android device
 ### Sources
 Sources are placed in <b>src</b> directory
 
-### How to setup Android platform tools on mcmurdo machine
-Source the script using the below command. It has all the export commands to set the PATH and LD_LIBRARY_PATH variables for android platform tools
-
-    $ source /home/nqx/setup_android.source
-
 ### Building 
 Make sure that Android NDK is installed and ndk-build is accessible
 
